@@ -1,7 +1,11 @@
 # Segmentation application
 
+input files are not in the repository, and need to be placed in the same folder as the app.
+To run the app, use the batch files, or manually call the application with the same parameters as described in the batch files.
+
 ## Useful links:
 
+Input files: 
 Video: 
 Pregenerated output files:
 
