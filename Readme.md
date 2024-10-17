@@ -5,9 +5,9 @@ To run the app, use the batch files, or manually call the application with the s
 
 ## Useful links:
 
-Input files: 
-Video: 
-Pregenerated output files:
+Input files: https://drive.google.com/drive/folders/1sgLOBVay6pbVRaw1Ybg7oFqSraYDBBIv?usp=sharing  
+Video: https://drive.google.com/file/d/19mXxeaImYbrDtY4UiuDfTBJJFeQ6beQo/view?usp=sharing  
+Pregenerated output files: https://drive.google.com/drive/folders/1Co2MdXPQ4scoT-l1bwz8pjYf_Oit_Dt4?usp=sharing  
 
 ## High-Level Summary of Algorithm
 
